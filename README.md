@@ -1,0 +1,2 @@
+# SEMINAR-JAVA-2026
+Seminare Java 2026
