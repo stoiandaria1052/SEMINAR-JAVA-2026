@@ -1,0 +1,5 @@
+Andrei,20,Informatica Economica
+Maria,21,Cibernetica
+Alexandru,22,Statistica
+Elena,19,Informatica Economica
+Stefan,23,Management
